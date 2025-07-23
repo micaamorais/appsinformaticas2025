@@ -1,44 +1,50 @@
-🖥️ Aplicaciones Informáticas — Proyecto Python + Ciencia de Datos
-Este repositorio forma parte del trabajo práctico de la materia Aplicaciones Informáticas. A lo largo del desarrollo, se aplicarán conceptos fundamentales de programación en Python, gestión de proyectos con GitHub, y se explorarán herramientas básicas de Ciencia de Datos para el análisis y visualización de información.
+Claro, acá tenés un texto que podés usar o adaptar para tu archivo `README.md` de GitHub, orientado a la materia **Aplicaciones Informáticas**, en la que vas a trabajar con **Python**, **GitHub** y **herramientas de ciencia de datos**:
 
-🚀 Objetivos del proyecto
-Desarrollar habilidades de programación utilizando Python.
+---
 
-Aprender el uso de control de versiones con Git y GitHub.
+# 🖥️ Aplicaciones Informáticas — Proyecto Python + Ciencia de Datos
 
-Aplicar herramientas de ciencia de datos como pandas, matplotlib o numpy.
+Este repositorio forma parte del trabajo práctico de la materia **Aplicaciones Informáticas**. A lo largo del desarrollo, se aplicarán conceptos fundamentales de programación en **Python**, gestión de proyectos con **GitHub**, y se explorarán herramientas básicas de **Ciencia de Datos** para el análisis y visualización de información.
 
-Presentar análisis de datos mediante gráficos y reportes simples.
+## 🚀 Objetivos del proyecto
 
-Organizar el proyecto siguiendo buenas prácticas de documentación y desarrollo.
+* Desarrollar habilidades de programación utilizando Python.
+* Aprender el uso de control de versiones con Git y GitHub.
+* Aplicar herramientas de ciencia de datos como `pandas`, `matplotlib` o `numpy`.
+* Presentar análisis de datos mediante gráficos y reportes simples.
+* Organizar el proyecto siguiendo buenas prácticas de documentación y desarrollo.
 
-🧰 Herramientas y tecnologías
-Lenguaje: Python 3.x
+## 🧰 Herramientas y tecnologías
 
-Control de versiones: Git + GitHub
+* **Lenguaje:** Python 3.x
+* **Control de versiones:** Git + GitHub
+* **Librerías:**
 
-Librerías:
+  * `pandas` para manipulación de datos
+  * `matplotlib` y/o `seaborn` para visualización
+  * `numpy` para cálculos numéricos
+* **Entorno sugerido:** Jupyter Notebook / Visual Studio Code
 
-pandas para manipulación de datos
+## 📁 Estructura del repositorio
 
-matplotlib y/o seaborn para visualización
-
-numpy para cálculos numéricos
-
-Entorno sugerido: Jupyter Notebook / Visual Studio Code
-
-📁 Estructura del repositorio
-python
-Copy
-Edit
+```
 📦 nombre-del-repositorio/
 ├── 📁 data/              # Archivos de datos utilizados
 ├── 📁 notebooks/         # Análisis y visualizaciones en Jupyter
 ├── 📁 src/               # Código fuente en Python
 ├── 📄 README.md          # Documentación general del proyecto
 └── 📄 requirements.txt   # Dependencias del proyecto
-📌 Estado
+```
+
+## 📌 Estado
+
 🔄 En desarrollo — primeras entregas y ejercicios en curso.
 
-👩‍💻 Autor/a
-Este proyecto está siendo desarrollado por Micaela Morais como parte de las actividades académicas de la materia Aplicaciones Informáticas.
+## 👩‍💻 Autor/a
+
+Este proyecto está siendo desarrollado por \[Tu Nombre] como parte de las actividades académicas de la materia **Aplicaciones Informáticas**.
+
+---
+
+¿Querés que lo personalice con tu nombre o algo más específico del trabajo que vas a hacer (por ejemplo, un tema de datos concreto)?
+
