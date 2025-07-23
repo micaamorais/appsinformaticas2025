@@ -1,7 +1,3 @@
-Claro, acá tenés un texto que podés usar o adaptar para tu archivo `README.md` de GitHub, orientado a la materia **Aplicaciones Informáticas**, en la que vas a trabajar con **Python**, **GitHub** y **herramientas de ciencia de datos**:
-
----
-
 # 🖥️ Aplicaciones Informáticas — Proyecto Python + Ciencia de Datos
 
 Este repositorio forma parte del trabajo práctico de la materia **Aplicaciones Informáticas**. A lo largo del desarrollo, se aplicarán conceptos fundamentales de programación en **Python**, gestión de proyectos con **GitHub**, y se explorarán herramientas básicas de **Ciencia de Datos** para el análisis y visualización de información.
@@ -42,9 +38,4 @@ Este repositorio forma parte del trabajo práctico de la materia **Aplicaciones 
 
 ## 👩‍💻 Autor/a
 
-Este proyecto está siendo desarrollado por \[Tu Nombre] como parte de las actividades académicas de la materia **Aplicaciones Informáticas**.
-
----
-
-¿Querés que lo personalice con tu nombre o algo más específico del trabajo que vas a hacer (por ejemplo, un tema de datos concreto)?
-
+Este proyecto está siendo desarrollado por Micaela Morais como parte de las actividades académicas de la materia **Aplicaciones Informáticas**.
